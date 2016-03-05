@@ -2,6 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/babel-plugin-replace-current-module.svg?style=flat)](https://npmjs.org/package/babel-plugin-replace-current-module)
 [![Build Status](https://img.shields.io/travis/gxcsoccer/babel-plugin-replace-current-module.svg?style=flat)](https://travis-ci.org/gxcsoccer/babel-plugin-replace-current-module)
+[![Coverage Status](https://coveralls.io/repos/github/gxcsoccer/babel-plugin-replace-current-module/badge.svg?branch=master)](https://coveralls.io/github/gxcsoccer/babel-plugin-replace-current-module?branch=master)
 
 ----
 
